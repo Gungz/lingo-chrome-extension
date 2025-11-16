@@ -2,7 +2,7 @@ import { LingoDotDevEngine } from 'lingo.dev/sdk';
 
 // Initialize the SDK
 const lingoDotDev = new LingoDotDevEngine({
-  apiKey: process.env.LINGO_API_KEY || 'your-lingo-api-key-here'
+  apiKey: 'your-lingo-api-key-here'
 });
 
 // Make it globally available for service worker

@@ -36,13 +36,7 @@ Arabic, Bulgarian, Catalan, Chinese, Czech, Danish, Dutch, English, Estonian, Fi
    ```
 
 3. **Set up your Lingo API key**
-   
-   Create a `.env` file in the root directory:
-   ```bash
-   LINGO_API_KEY=your_actual_lingo_api_key_here
-   ```
-   
-   Or directly edit `src/content.js` and replace `'your-lingo-api-key-here'` with your actual API key.
+   Edit `src/content.js` and replace `'your-lingo-api-key-here'` with your actual API key.
 
 4. **Build the extension**
    ```bash
