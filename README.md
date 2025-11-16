@@ -213,3 +213,6 @@ MIT License - see LICENSE file for details.
 - [Lingo.dev Documentation](https://lingo.dev/en/sdk/javascript)
 - [Chrome Extension Development](https://developer.chrome.com/docs/extensions/)
 - [Issue Tracker](https://github.com/yourusername/lingo-chrome-extension/issues)
+
+## Credit
+This extension is possible to be made in 1 day with help of **Q Developer** and **Claude Sonnet 4 model** on **VSCode**. Author modified the code to be more efficient and fix bug.
