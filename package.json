@@ -1,0 +1,21 @@
+{
+  "name": "lingo-chrome-extension",
+  "version": "1.0.0",
+  "description": "Chrome extension for translating web pages using Lingo.dev API",
+  "scripts": {
+    "build": "webpack --mode=production",
+    "dev": "webpack --mode=development --watch",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "lingo.dev": "^0.115.0",
+    "process": "^0.11.10"
+  },
+  "devDependencies": {
+    "webpack": "^5.102.1",
+    "webpack-cli": "^6.0.1"
+  },
+  "keywords": ["chrome-extension", "translation", "lingo", "i18n"],
+  "author": "Your Name",
+  "license": "MIT"
+}
